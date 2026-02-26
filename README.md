@@ -79,8 +79,10 @@ Fundé **[Rende Software](https://rendesoftware.vercel.app)** — una empresa de
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henryvelas&show_icons=true&theme=radical&hide_border=true&bg_color=060d1a&title_color=e11d48&icon_color=e11d48&text_color=f0f4ff" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryvelas&layout=compact&theme=radical&hide_border=true&bg_color=060d1a&title_color=e11d48&text_color=f0f4ff" height="160" />
+  <img src="https://streak-stats.demolab.com?user=henryvelas&theme=radical&hide_border=true&background=060d1a&ring=e11d48&fire=e11d48&currStreakLabel=e11d48" height="160" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryvelas&layout=compact&hide_border=true&bg_color=060d1a&title_color=e11d48&text_color=f0f4ff&langs_count=6" height="140" />
 </p>
 
 ---
@@ -90,7 +92,7 @@ Fundé **[Rende Software](https://rendesoftware.vercel.app)** — una empresa de
 ¿Tienes un proyecto en mente o quieres saber más sobre mis sistemas?
 
 <p align="center">
-  <a href="https://rendesoftware.vercel.app">
+  <a href="https://rendensoftware.vercel.app">
     <img src="https://img.shields.io/badge/Ver_mi_web-E11D48?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://wa.me/51917847128?text=Hola%20Henry,%20vi%20tu%20GitHub%20y%20me%20interesa%20contactarte">
