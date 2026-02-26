@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://rendesoftware.vercel.app" target="_blank">
+  <a href="https://rendensoftware.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Rende Software-E11D48?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/henry-velasquez-19618b207" target="_blank">
