@@ -23,7 +23,7 @@
 
 Soy un **Ingeniero en Informática** con más de 10 años de experiencia desarrollando software para empresas en Perú y Venezuela. Actualmente trabajo de forma **freelance** desde Chimbote, Perú, construyendo sistemas a medida para negocios reales.
 
-Fundé **[Rende Software](https://rendesoftware.vercel.app)** — una empresa de soluciones tecnológicas con productos para restaurantes, gimnasios y comercios.
+Fundé **[Rende Software](https://rendensoftware.vercel.app)** — una empresa de soluciones tecnológicas con productos para restaurantes, gimnasios y comercios.
 
 - 🔭 Actualmente trabajando en **Rende Gym**, **Rende Restaurant** y **Rende Ventas**
 - 🌱 Aprendiendo **Apache Kafka** y **arquitectura de microservicios**
